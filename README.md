@@ -1,6 +1,7 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Jayraj</h1>
 <h4 align="center">A Computer Science student.</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/kyoichishido/kyoichishido/blob/main/Hacker-cuate.svg">
 
 - 🔭 I’m currently reading lots of **Machine Learning and related Research papers**
 
